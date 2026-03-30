@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bwoah-yKjz.aternos.me:33546",
+    "ip": "Bwoah-yKjz.aternos.me",
     "port": 33546,
     "version": "1.21.11",
     "try-creative": false
